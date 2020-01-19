@@ -9,7 +9,9 @@ i can creat hte css code for the mobile version sothat i have nice looking we we
 
 tablets version i can add 
 
-as an enthsiastic HYF stednet i can man
+as an enthsiastic HYF stednet i can man.
+here we changed
+
  An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
 |  | |  |  |
 | ... | ... | ... | ... |
